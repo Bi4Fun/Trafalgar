@@ -1,0 +1,8 @@
+.late-article{
+    text-align: center;
+    margin-top: 60px;
+}
+.late-article-items{
+    display: flex;
+    width: fill;
+}

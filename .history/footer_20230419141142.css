@@ -1,0 +1,11 @@
+.footer{
+    background-image: linear-gradient(to top right, #5A98F2 40% , #67C3F3 60%);    
+    color: white;   
+    display: flex; 
+}
+
+
+
+.footer-company>p{
+    font-size: 20px;
+}

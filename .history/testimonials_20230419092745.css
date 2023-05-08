@@ -1,0 +1,12 @@
+.testimonials{
+    background-color: aqua;
+}
+
+
+
+.arrow-nav{
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}

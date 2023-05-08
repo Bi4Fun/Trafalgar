@@ -1,0 +1,9 @@
+.arrow-nav{
+    display: inline-block;
+}
+.arrow-nav{
+    display: block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}

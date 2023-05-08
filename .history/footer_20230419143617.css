@@ -1,0 +1,28 @@
+.footer{
+    background-image: linear-gradient(to top right, #5A98F2 40% , #67C3F3 60%);    
+    color: white;   
+    display: flex; 
+    justify-content: center;
+}
+.footer-left{
+    padding: 20% auto;
+    width: 25%;
+}
+.footer-left>p{
+    font-size: 18px;
+}
+.footer-left-logo>h3{
+    display: inline-block;
+}
+.footer-right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-right-col{
+    padding: 50px;
+}
+.footer-li{
+    padding: 23px 12px 0px 0px;
+}
+

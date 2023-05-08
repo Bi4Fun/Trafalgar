@@ -1,0 +1,20 @@
+.footer{
+    background-image: linear-gradient(to top right, #5A98F2 40% , #67C3F3 60%);    
+    color: white;   
+    display: flex; 
+}
+
+
+
+.footer-company>ul>p{
+    font-size: 20px;
+}
+.footer-region>ul>p{
+    font-size: 20px;   
+}
+.footer-help>ul>p{
+    font-size: 20px;
+}
+.footer-li{
+    margin: 20px 10px;
+}

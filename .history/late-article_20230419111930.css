@@ -1,0 +1,13 @@
+.late-article{
+    margin-top: 60px;
+}
+.late-article-items{
+    margin: 60px;
+    display: flex;
+}
+.late-article-items>div{
+    padding: 30px;
+}
+.late-article-items>div>div{
+    padding: 0px 66px 0px 33px; 
+}

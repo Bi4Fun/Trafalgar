@@ -1,0 +1,18 @@
+.testimonials{
+    
+}
+
+
+
+.arrow-nav{
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.arrow-nav>img{
+    padding: 5px;
+}
+.arrow-nav>img:first-child, .arrow-nav>img:last-child{
+    padding: 0px 40px!important; 
+}

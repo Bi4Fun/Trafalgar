@@ -1,0 +1,37 @@
+.footer{
+    background-image: linear-gradient(to top right, #5A98F2 40% , #67C3F3 60%);    
+    color: white;   
+    display: flex; 
+    justify-content: center;
+}
+.footer-t{
+    /* transform: translateX(0.75rem); */
+    transform: translateY(-0.53rem);
+    position: relative;
+} 
+.footer-circle{
+    position: absolute; 
+}
+.footer-left{
+    padding: 66px;
+    width: 25%;
+}
+.footer-left>p{
+    font-size: 18px;
+}
+.footer-left-logo>h3{
+    margin-left: 2rem;
+    display: inline-block;
+}
+.footer-right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-right-col{
+    padding: 50px;
+}
+.footer-li{
+    padding: 23px 12px 0px 0px;
+}
+

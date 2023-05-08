@@ -1,0 +1,12 @@
+.testimonials{
+}
+
+
+
+.arrow-nav>img{
+    padding: 10px;
+    display: inline-block;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
